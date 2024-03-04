@@ -1,0 +1,21 @@
+[
+        {
+          "id": 1,
+          "title": "Meeting with Client",
+          "desc": "Discuss project updates and deadlines",
+          "isActive": false
+        },
+        {
+          "id": 2,
+          "title": "Grocery Shopping",
+          "desc": "Buy fruits, vegetables, and bread",
+          "isActive": true
+        },
+        {
+          "id": 3,
+          "title": "Gym Session",
+          "desc": "Workout for an hour ok",
+          "isActive": true
+        }
+      ]
+      
